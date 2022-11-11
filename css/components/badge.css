@@ -1,0 +1,19 @@
+.badge {
+	background-color: tomato;
+	width: 21px;
+	height: 21px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+	color: white;
+	font-weight: 600;
+}
+
+.find__cog__badge {
+	width: 8px;
+	height: 8px;
+	position: absolute;
+	top: -10px;
+	right: -10px;
+}
